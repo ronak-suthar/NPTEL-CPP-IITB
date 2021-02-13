@@ -2,6 +2,7 @@
 #include<simplecpp>
 
 main_program{
+	//initCanvas("Array of tiles",500,500);
 	turtleSim();
 	int fwd_len=50;
 	
